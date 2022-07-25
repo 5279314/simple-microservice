@@ -14,7 +14,7 @@
 </head>
 <body>
 <div style="background: url('/images/bg.png')  no-repeat; height: 900px; position: relative;">
-    <#--    <a href="http://www.ctnrs.com"><img alt="阿良教育-www.aliangedu.cn" src="../images/logo.png"></a>-->
+    <#--    <a href="https://www.boysec.cn"><img alt="王先森 www.boysec.cn" src="../images/logo.png"></a>-->
     <div class="page-container"
          style="width: 310px;height: 50px;background-color: #f0f3ef;left: 40%;top: 40%;position: absolute;">
         <h1 class="title"></h1>
@@ -29,7 +29,7 @@
 
     </div>
 </div>
-    <div style="margin-left: 50%;font-size: 20px"><a href="http://www.ctnrs.com" target="_black">阿良教育 www.aliangedu.cn</a></div>
+    <div style="margin-left: 50%;font-size: 20px"><a href="https://www.boysec.cn" target="_black">王先森 www.boysec.cn</a></div>
 
     <script src="../js/jquery-1.8.2.min.js"></script>
     <script src="../js/layui/layui.js"></script>
